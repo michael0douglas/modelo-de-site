@@ -80,3 +80,34 @@ li {
 .caixa img {
     width: 170px;
 }
+
+.caixa img {
+    width: 170px;
+}
+
+.footer {
+    padding: 45px 0;
+    background-color: #32b9cd;
+}
+
+.footer .container {
+    justify-content: center ;
+}
+
+.footer p{
+    color: #ffffff;
+}
+
+li a {
+    color: #e3b062;
+    text-decoration: none;
+ cursor: pointer;
+
+
+}
+
+h1 a{
+    color: #e3b062;
+    text-decoration: none;
+    cursor: pointer;
+}
